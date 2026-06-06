@@ -22,7 +22,7 @@ Building scalable, fault-tolerant data platforms that transform operational comp
 
 **Passionate about:** Data quality, observability, schema governance, and cross-functional collaboration (Supply Chain, Finance, Operations, IT).
 
-**Currently exploring:** Real-time ML pipelines, cost optimization patterns, LangChain/RAG for data automation, Dagster for next-gen orchestration.
+**Currently exploring:** Real-time ML pipelines, cost optimization patterns, LangChain, RAG for data automation, Dagster for next-gen orchestration.
 
 **Core beliefs:**
 - Data quality > data volume
@@ -120,8 +120,8 @@ Building scalable, fault-tolerant data platforms that transform operational comp
 
 ## 🎓 Education
 
-**Master of Science in Data Science** — University of Memphis  
-**Bachelor of Technology in Electronics & Communication Engineering** — Indian Institute of Information Technology, Jabalpur
+**Master of Science in Data Science** - University of Memphis  
+**Bachelor of Technology in Electronics & Communication Engineering** - Indian Institute of Information Technology, Jabalpur
 
 
 ## 🏆 Certifications
