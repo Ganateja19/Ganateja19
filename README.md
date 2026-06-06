@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ganateja Thurpati
 
-**Data Engineer** | Supply Chain & Operational Analytics | Cloud Infrastructure
+**Data Engineer** 
 
 Building scalable, fault-tolerant data platforms that transform operational complexity into actionable intelligence.
 
@@ -18,7 +18,7 @@ Building scalable, fault-tolerant data platforms that transform operational comp
 ## 🎯 About Me
 
 
-**Track record:** 5+ years building enterprise data platforms. Scaled pipelines to **500GB+ daily ingestion**, reduced operational costs **$28K annually**, established governance practices cutting incidents **40% QoQ**.
+**Track record:** 5+ years building enterprise data platforms. 
 
 **Passionate about:** Data quality, observability, schema governance, and cross-functional collaboration (Supply Chain, Finance, Operations, IT).
 
