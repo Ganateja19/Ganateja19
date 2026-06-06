@@ -117,17 +117,7 @@ Continuous learner obsessed with data reliability and governance. I believe grea
 ![Avro](https://img.shields.io/badge/Avro-0078D4?style=for-the-badge&logo=apache&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganateja19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ganateja19&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganateja19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 ## 🎓 Education
 
