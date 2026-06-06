@@ -15,9 +15,8 @@ Building scalable, fault-tolerant data platforms that transform operational comp
 
 ---
 
-## 🎯 Who I Am
+## 🎯 About Me
 
-Continuous learner obsessed with data reliability and governance. I believe great data engineering isn't just about architecture—it's about translating business complexity into scalable, cost-efficient systems.
 
 **Track record:** 5+ years building enterprise data platforms. Scaled pipelines to **500GB+ daily ingestion**, reduced operational costs **$28K annually**, established governance practices cutting incidents **40% QoQ**.
 
