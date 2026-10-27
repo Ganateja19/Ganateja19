@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Ganateja Thurpati
 
-**Data Engineer** 
-
-Building scalable, fault-tolerant data platforms that transform operational complexity into actionable intelligence.
 
 ---
 
@@ -15,22 +12,6 @@ Building scalable, fault-tolerant data platforms that transform operational comp
 
 ---
 
-## 🎯 About Me
-
-
-**Track record:** 5+ years building enterprise data platforms. 
-
-**Passionate about:** Data quality, observability, schema governance, and cross-functional collaboration (Supply Chain, Finance, Operations, IT).
-
-**Currently exploring:** Real-time ML pipelines, cost optimization patterns, LangChain, RAG for data automation, Dagster for next-gen orchestration.
-
-**Core beliefs:**
-- Data quality > data volume
-- Observability prevents outages
-- Schema governance scales organizations
-- Cost efficiency is a feature, not a constraint
-
----
 
 ## 💻 Core & ERP Systems
 
@@ -98,15 +79,6 @@ Building scalable, fault-tolerant data platforms that transform operational comp
 
 ---
 
-## 🐳 Containerization & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
 
 ## 📊 Visualization & Data Formats
 
